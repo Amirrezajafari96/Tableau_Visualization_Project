@@ -1,14 +1,14 @@
-# Tableau_Visualization_Project
+.
+├── data/
+│   ├── Tableau_Full_Project.xlsx    # Source data file used for analysis
+│   └── README.md                    # Description of the dataset and its columns
+├── visualizations/
+│   ├── Seattle_Rental_Analysis.twbx # Tableau Packaged Workbook (Dashboards)
+│   └── screenshots/                 # Folder containing visualization images
+├── docs/
+│   └── Analysis_Report.pdf          # Detailed project report
+├── scripts/                         # Python scripts (if applicable)
+├── README.md                        # Project description and usage instructions
+└── LICENSE                          # Open-source license for the repository
 
-A Tableau project analyzing Seattle rental market trends, including pricing, revenue, and geographical insights by zip codes. Contains visualizations, datasets, and detailed documentation.
--
-Technologies Used: List Tableau and any supporting tools like Python.
--
-Data Sources: Describe the Excel file and data origin.
--
-Visualizations: List insights from Tableau dashboards.
--
-Instructions: Steps for others to replicate your analysis.
--
-License: Include the license chosen during setup.
 -
